@@ -13,4 +13,4 @@ Quarterly historical growth rates for three risk factors, the EUR/USD exchange r
 ## Recommendation
 A targeted, exposure-driven hedging strategy is recommended over blanket hedging, prioritizing commodity price management first, with FX hedging applied where revenue translation risk is material and correlated with broader macroeconomic stress.
 
-[View Full Report]()
+[View Full Report](https://github.com/PatelRudrani/Monte-Carlo-CVaR-Risk-Framework/blob/d97af7856c98d710bfd14646f5fe01b40c19b416/CVaR_Risk_Memo.md)
