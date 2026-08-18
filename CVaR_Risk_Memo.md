@@ -4,9 +4,7 @@
 
 | | |
 |---|---|
-| **To** | Risk Management Committee / Course Faculty Reviewer |
-| **From** | Rudrani Patel |
-| **Date** | August 18, 2026 |
+| **Author** | Rudrani Patel |
 | **Re** | Downside Earnings Risk Assessment and Hedging Effectiveness, FY2024 Pre-Tax Earnings |
 
 ---
